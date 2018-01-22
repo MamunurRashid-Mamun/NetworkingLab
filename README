@@ -1,0 +1,21 @@
+How to run.........
+After open .pkt file on packet tracer do the following task for each lab.
+
+Lab 5: Open cmd of PC1 and run command -> ping 1.1.1.3
+
+Lab 6: Open cmd of PC1 and run command -> ping 192.168.2.2
+
+Lab 7: Open cmd of PC1 and run command -> ping 192.168.2.3
+
+Lab 8: Click message icon and drop it on PC1 and then drop it on PC4, successful message will appear.
+
+Lab 10: Click message icon and drop it on PC1 and then drop it on PC2, successful message will appear.
+
+Lab 11: Open browser of PC1 and brows http://192.168.1.1
+
+Lab 12: Open browser of PC1 and brows http://mamun-mbstu
+
+Lab 13: Click message icon and drop it on Laptop1 and then drop it on PC1, 
+	successful message will appear.
+	But Click message icon and drop it on PC2 and then drop it on PC4, 
+	Failed message will appear.
